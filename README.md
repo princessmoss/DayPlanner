@@ -8,5 +8,3 @@ https://princessmoss.github.io/WorkDayScheduler/
 https://github.com/princessmoss/WorkDayScheduler
 
 ![gif](WorkDayScheduler/assets/Images/Work Day Scheduler.gif)
-
-![screenshot of webpage](/Users/evonna/CodingBootcamp/homework/WorkDayScheduler/assets/Images/princessmoss.github.io_WorkDayScheduler_.png)
