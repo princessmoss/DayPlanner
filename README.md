@@ -7,5 +7,4 @@ https://princessmoss.github.io/WorkDayScheduler/
 # Github Repository
 https://github.com/princessmoss/WorkDayScheduler
 
-
 ![screenshot of webpage](WorkDayScheduler/assets/Images/princessmoss.github.io_WorkDayScheduler_.png)
