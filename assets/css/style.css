@@ -58,6 +58,12 @@ textarea:focus {
 .present {
   background-color: #ff6961;
   color: white;
+  border-radius: 0;
+  border-bottom: solid black
+}
+ 
+.after {
+  background-color: #77dd77;
 }
 
 .future {
